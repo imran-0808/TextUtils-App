@@ -4,10 +4,13 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import { BrowserRouter } from 'react-router-dom';//apni app ko browser's URL ke sath connect karne ke liye BrowserRouter ki need hoti hai
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter> {/*wrap app in BrowserRouter */}
+      <App />
+    </BrowserRouter>
   </React.StrictMode>
 );
 
