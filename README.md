@@ -37,7 +37,7 @@ Example: https://yourdeploymentlink.netlify.app
 ![Light Mode](https://github.com/imran-0808/TextUtils-App/commit/7242276fd8897a891c7a659262b66cfa1d988c19)
 
 ### Dark Mode
-![Dark Mode](./screenshots/dark-mode.png)
+![Dark Mode](https://github.com/imran-0808/TextUtils-App/blob/main/screenshots/WhatsApp%20Image%202026-01-11%20at%2023.27.24.jpeg)
 
 ---
 
