@@ -34,7 +34,7 @@ Example: https://yourdeploymentlink.netlify.app
 *(Add your own screenshots under `/screenshots` folder)*
 
 ### Light Mode
-![Light Mode](./screenshots/light-mode.png)
+![Light Mode](https://github.com/imran-0808/TextUtils-App/commit/7242276fd8897a891c7a659262b66cfa1d988c19)
 
 ### Dark Mode
 ![Dark Mode](./screenshots/dark-mode.png)
