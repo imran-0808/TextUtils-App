@@ -31,8 +31,6 @@ Example: https://yourdeploymentlink.netlify.app
 
 ## 📸 Screenshots
 
-*(Add your own screenshots under `/screenshots` folder)*
-
 ### Light Mode
 ![Light Mode](https://github.com/imran-0808/TextUtils-App/blob/main/screenshots/WhatsApp%20Image%202026-01-11%20at%2023.25.09.jpeg)
 
